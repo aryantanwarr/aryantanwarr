@@ -12,9 +12,8 @@ I'm a BCA Graduate and Pursuing MCA from NIT Jamshedpur💻!
 
 I love the entire process of developing new projects. I love the challenge of finding new places and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
-### 🤝 Connect with me:
-
-<a href="www.linkedin.com/in/aryan-tanwar-440a76235"><img align="left" src="https://raw.githubusercontent.com/arytantanwarr/aryantanwarr/main/images/linkedin.svg" alt="Aryan Tanwar| LinkedIn" width="21px"/></a>
+###  🤝 Connect with me Linkedin:
+<a href="www.linkedin.com/in/aryan-tanwar-440a76235"><img align="left"> Linkedin </a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
