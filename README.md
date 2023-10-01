@@ -1,6 +1,9 @@
 <p align="center">
-<a href="![HD wallpaper_ Medusa, abstract, 3D Abstract, minimalism, black](https://github.com/aryantanwarr/aryantanwarr/assets/91049545/73012566-222c-486e-a9b5-aee8ff825e43)"></a>
+<a href="![ARYAN TANWAR](https://github.com/aryantanwarr/aryantanwarr/assets/91049545/c1f3fad8-5521-4000-816c-3abad23d4da1)
+
+"></a>
 </p>
+
 
 <h3 align="center">
 Hi there, I'm ARYAN TANWAR 👋
