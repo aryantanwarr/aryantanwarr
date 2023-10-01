@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![HD wallpaper_ Medusa, abstract, 3D Abstract, minimalism, black](https://github.com/aryantanwarr/aryantanwarr/assets/91049545/73012566-222c-486e-a9b5-aee8ff825e43)
-![HD wallpaper_ Medusa, abstract, 3D Abstract, minimalism, black](https://github.com/aryantanwarr/aryantanwarr/assets/91049545/73012566-222c-486e-a9b5-aee8ff825e43)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
