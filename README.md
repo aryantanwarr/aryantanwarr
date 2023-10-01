@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="![HD wallpaper_ Medusa, abstract, 3D Abstract, minimalism, black](https://github.com/aryantanwarr/aryantanwarr/assets/91049545/73012566-222c-486e-a9b5-aee8ff825e43)"></a>
+<a href="![HD wallpaper_ Medusa, abstract, 3D Abstract, minimalism, black](https://github.com/aryantanwarr/aryantanwarr/assets/91049545/73012566-222c-486e-a9b5-aee8ff825e43)"></a>
 </p>
 
 <h3 align="center">
