@@ -1,63 +1,56 @@
-<p align="center">
-<a href="![ARYAN TANWAR](https://github.com/aryantanwarr/aryantanwarr/assets/91049545/c1f3fad8-5521-4000-816c-3abad23d4da1)
+<h1 align="center">Hi there, I'm ARYAN TANWAR 👋</h1>
 
-"></a>
+<h3 align="center">A Full-Stack Developer and MCA Student at NIT Jamshedpur</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryan-tanwar-440a76235/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aryantanwar2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
+I'm a passionate and results-driven developer pursuing my Masters in Computer Applications from NIT Jamshedpur. With a strong foundation in the MERN stack and a love for solving real-world problems, I enjoy building robust, user-friendly web applications from concept to deployment. My experience is complemented by a proven ability to work effectively in teams and lead initiatives.
 
-<h3 align="center">
-Hi there, I'm ARYAN TANWAR 👋
-</h3>
+---
 
-<h2 align="center">
-I'm a BCA Graduate and Pursuing MCA from NIT Jamshedpur💻!
-</h2> 
+### 🚀 About Me
 
-I love the entire process of developing new projects. I love the challenge of finding new places and spending time to meet new people. Learning how people hide things and where people are likely to look.
+-   🔭 I’m currently focused on building scalable full-stack applications and deepening my understanding of system design.
+-   🌱 I’m actively seeking **Software Development Internship/Full-Time opportunities** where I can contribute and grow.
+-   👯 I’m open to collaborating on open-source projects, especially those involving **React, Node.js, or AI**.
+-   💬 Ask me about **MERN Stack Development, C++, Data Structures, and Algorithms**.
+-   ⚡ Fun fact: I'm a national-level Kabaddi player and have been running my own handmade craft business for over 7 years!
 
-###  🤝 Connect with me Linkedin:
-<a href="www.linkedin.com/in/aryan-tanwar-440a76235"><img align="left"> Linkedin </a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+---
 
-## 🔭 I'm currently working on
+### 💼 Technical Skills
 
-- My old projects.
+<h4>Frontend:</h4>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</p>
 
-## 🌱 I'm currently learning
+<h4>Backend:</h4>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/REST_APIs-0277BD?style=for-the-badge&logo=api-platform&logoColor=white" alt="REST APIs"/>
+</p>
 
-- My hold on the Coding languages
-- My Problem Solving skills
+<h4>Programming Languages & Databases:</h4>
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
 
-## 💼 Technical Skills
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-</br>
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
-
-## 📈 GitHub Stats 
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=aryantanwarr)](https://github.com/aryantanwarr)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryantanwarr&layout=compact)](https://github.com/aryantanwarr)
-<!--
-**aryantanwarr/aryantanwarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Tools & Platforms:</h4>
+<p>
+  <img src="https://img.
