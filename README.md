@@ -91,6 +91,6 @@ I'm a passionate and results-driven developer pursuing my Masters in Computer Ap
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryantanwarr&show_icons=true&theme=dracula" alt="aryantanwarr's GitHub stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryantanwarr&layout=compact&theme=dracula" alt="Top Langs" />
 </p>
