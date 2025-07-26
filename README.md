@@ -53,4 +53,44 @@ I'm a passionate and results-driven developer pursuing my Masters in Computer Ap
 
 <h4>Tools & Platforms:</h4>
 <p>
-  <img src="https://img.
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+</p>
+
+---
+
+### 🛠️ My Projects
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3>TiffinSpace - Modern Mess Management System</h3>
+      <p>A full-stack MERN platform with role-based access for four user types, featuring meal scheduling, online booking, and payment processing.</p>
+      <p><b>Tech Stack:</b> React, Node.js, Express.js, MongoDB</p>
+      <a href="#"><b>[GitHub Repo]</b></a> </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3>DishGenieAI - AI-Powered Recipe Recommendation App</h3>
+      <p>A responsive web app that uses Google's Gemini AI to dynamically generate personalized recipes based on user-provided ingredients.</p>
+      <p><b>Tech Stack:</b> React, Gemini AI, HTML, CSS, JavaScript</p>
+      <a href="#"><b>[GitHub Repo]</b></a> </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3>Mantri Traders - E-commerce & Portfolio Platform</h3>
+      <p>Engineered a MERN stack e-commerce site for a client with a secure admin panel (CRUD), product gallery, and enquiry system, earning a Letter of Recommendation.</p>
+      <p><b>Tech Stack:</b> React, Node.js, Express.js, MongoDB</p>
+      <a href="#"><b>[GitHub Repo]</b></a> </td>
+  </tr>
+</table>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryantanwarr&show_icons=true&theme=dracula" alt="aryantanwarr's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryantanwarr&layout=compact&theme=dracula" alt="Top Langs" />
+</p>
